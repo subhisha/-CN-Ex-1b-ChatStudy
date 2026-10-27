@@ -140,7 +140,7 @@ while True:
 client.close()
 ```
 ## output
-## Simpleerver.py
+## Simpleserver.py
 <img width="1427" height="332" alt="Screenshot 2026-10-27 091250" src="https://github.com/user-attachments/assets/19e6d1fe-744e-4239-aa09-2df5ec4bf36b" />
 ## Simpleclient.py
 <img width="1436" height="277" alt="Screenshot 2026-10-27 091316" src="https://github.com/user-attachments/assets/90c73143-c2af-44ae-b6d9-c96f1aaf60be" />
